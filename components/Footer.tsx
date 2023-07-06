@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="flex flex-row items-center justify-center space-x-2 mb-1">
           <a
             href="https://github.com/Sau2001rabh"
-            rel="norerferrer"
+            rel="noopener noreferrer"
             target="_blank"
           >
             <AiOutlineGithub
@@ -23,7 +23,7 @@ const Footer = () => {
           </a>
           <a
             href="https://www.linkedin.com/in/saurabh-siddharth-72ab9a203/"
-            rel="norerferrer"
+            rel="noopener noreferrer"
             target="_blank"
           >
             <AiOutlineLinkedin
